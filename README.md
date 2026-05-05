@@ -13,6 +13,7 @@ This repository contains the implementation and resources for the 3rd Semester R
 
 ## Dataset
 **Vehicle Fault Dataset (Smart)**
+-**Dataset Source:** The data set was genrated sythetically using webscraping methods .
 - **Total Records:** 30,000 multi-dimensional time-series samples.
 - **Class Distribution:** 66.6% Normal (19,980) vs. 33.4% Anomaly (10,020).
 - **Features:** 6 core OBD-II sensor signals (e.g., Engine RPM, Coolant Temperature, Oil Pressure).
